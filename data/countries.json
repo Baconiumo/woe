@@ -1,0 +1,544 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "The Commune of Ouvry",
+      "shortName": "Ouvry",
+      "color": [
+        156,
+        255,
+        193
+      ],
+      "hexColor": "#9CFFC1",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/ouvry.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/ouvry",
+      "description": "Ouvry - pronounced you-vree - is a sprawling and ancient nation, though it wasn't always called Ouvry. In the 1570s, the country that used to be known as Mequin, which sprawled across the Paix’i coasts and mountain range, was thrown into turmoil when a leftist revolution overthrew the nation's former monarchy. In the decades after that, despite the country's initial emphasis on class unity, it remains as a deeply divided world. If you are lucky enough to born in one of the more influential families, you can enjoy a life of arts, political discussion, sophistication, and beauty. If you are not, then you are a laborer, destined for lifelong toiling in the vast fields, factories, or ports. Ouvry now stands as one of the most politically tumultuous nations in the world, notorious for its constant infighting and foreign affairs meddling.",
+      "status": "established"
+    },
+    {
+      "id": 2,
+      "name": "The State of d’Razόn",
+      "shortName": "d’Razόn",
+      "color": [
+        42,
+        143,
+        193
+      ],
+      "hexColor": "#2A8FC1",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/drazon.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/drazόn",
+      "description": "In the most strategically important location along the Paix'i lies the small but affluent nation of d’Razόn - pronounced dee-rah-zon. Most of the country's activities is centered around the main islet and city of d’Razόn, making some call it really just a bloated city-state. Admittedly, this isn't entirely wrong, though to claim that the country is only a single city would be wrong, as it'd be entirely foregoing the many villages and small towns that lay along the dry mainland, and the various tribes and ports that continue to persevere along the smaller islets inside the archipelago of d’Razόn. Beyond that, d’Razόn is a storied country - it's position along the Paix'i Sea has made many of the countries around it yearn for it, and its unique government structure, polycultural nature, and overall maritime lifestyle has made the city of d’Razόn one of the most culturally diverse and unique countries of the world. Truly, d’Razόn is the crossroads of crossroads.",
+      "status": "established"
+    },
+    {
+      "id": 3,
+      "name": "Greater Kälamjaa",
+      "shortName": "Kälamjaa",
+      "color": [
+        58,
+        53,
+        191
+      ],
+      "hexColor": "#3A35BF",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/kalamjaa.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/kälamjaa",
+      "description": "If Ouvry is stereotyped as being a leftist paradise with sprawling wheat fields and overly decorated cities, then Kälamjaa - pronounced keh-lem-shaa - is stereotyped as being a stormy, overcast, pollution-filled country. Admittedly, its a partial truth. The most populated cities of Kälamjaa are filled with factories and industrial blight, and the nation is dryer than many of their neighbors. When you compare the countries of Kälamjaa and Ouvry, you see rivalry in every form - for as far left as Ouvry claims to provide, Kälamjaa features the opposite. People in Kälamjaa are deeply nationalistic, populist, nativist, and yet extremely diverse, and the government is ruled by a single party known as the 'Kälamjaan National,' a right-leaning authoritarian party that presides over the country's shockingly unregulated economy that has led to much of the environmental devastation that now plagues it.",
+      "status": "established"
+    },
+    {
+      "id": 4,
+      "name": "The Lievrien League",
+      "shortName": "Lievrien",
+      "color": [
+        219,
+        54,
+        54
+      ],
+      "hexColor": "#DB3636",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/lievrien.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/lievrein-league",
+      "description": "The coalition of a number of tribes across the territory known as the Lieve. The League holds a unique government structure of various independently operating tribes and peoples who, globally, operate as their own entity. Each of the tribes have signed a defense pact that ensures that, should anyone threaten one of the tribes, the others of the Lieve will be there to support them. This model retains vast cultural diversity - though in the past, it has led to infighting and conflict as different tribes disagree on fundamental values. The Lieve is also imbalanced with a poverty stricken north and a comparatively rich south, and even still, the Lieve remains poor compared to many of their neighbors.",
+      "status": "established"
+    },
+    {
+      "id": 5,
+      "name": "Kingdom of Haszell",
+      "shortName": "Haszell",
+      "color": [
+        156,
+        106,
+        193
+      ],
+      "hexColor": "#9C6AC1",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/haszell.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/haszell",
+      "description": "Centuries ago, Haszell was an empire that stretched across the grasslands and ruled the seas. They were the inventors of the first crewed-rowboats, cavalry, and were known for wearing beautiful metal masks as armor. Their visages once struck fear in the middle aged history of the continent - and now, they have fallen behind. Their territory has shrunken and shriveled to a fraction of what it once was, and their terrestrial strength has waned. Their government is archaic, ruled by a weak, inbred family, and their economy has suffered as their farmlands shrunk and their industry was mismanaged time and time again. Their history is infinitely more interesting than they, themselves, are.",
+      "status": "established"
+    },
+    {
+      "id": 6,
+      "name": "The Savannte",
+      "shortName": "Savannte",
+      "color": [
+        170,
+        124,
+        59
+      ],
+      "hexColor": "#AA7C3B",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/savannte.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/savannte",
+      "description": "Life in the Savannte is quiet. It operates mostly as a federation of various city-states, ethnic groups, and nomadic tribes, meeting in the central city, Listine, that rests across the St. Listine Sea, the inland sea that Savannte and Haszell both surround. As such a vast, almost completely landlocked (save for a small, rocky coast) nation, the Savannte has been mostly severed from much of the outside world. Historically, it was part of the long-gone Haszell Empire, though after it collapsed, the people of the Savannte decided to carve their own path in the world. The people of the Savannte are all incredibly disconnected from one another. With the road networks of the region undermaintained and dusty, and the main form of inter-community transportation being horseback riding, the communities within the federation are mostly self-sufficient and focus, mostly, on their own internal affairs rather than the politics of the broader republic.",
+      "status": "established"
+    },
+    {
+      "id": 7,
+      "name": "United Republic of Rivierra",
+      "shortName": "Rivierra",
+      "color": [
+        170,
+        0,
+        81
+      ],
+      "hexColor": "#AA0051",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/rivierra.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/rivierra",
+      "description": "The Republic of Rivierra is a hilly, tropical peninsula whose beautiful landscape is overshadowed by their history of cultural obliteration, brutal war, and piracy that has stretched all across the Cerulean Sea. Rivierra is no doubt beautiful, but each and every one of it's modern affluent families descent from brutal raiders and pirate kings who terrorized the peoples around them for wealth. Now, they pretend themselves a bastion of modern arts, fashion, music, and technology, as well as being one of the most progressive, welcoming countries of the modern day. Still, they retain mandatory five-year military service for all men below the age of forty five to gain citizenship, and their military activities suggest that, maybe, the United Republic of Rivierra has not yet completely severed their run-the-sea-red past.",
+      "status": "established"
+    },
+    {
+      "id": 8,
+      "name": "Motocoro",
+      "shortName": "Motocoro",
+      "color": [
+        170,
+        218,
+        81
+      ],
+      "hexColor": "#AADA51",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/motocoro.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/motocoro",
+      "description": "Motocoro used to be an island of various Rivierra exploits - penal colonies, repressed tribal peoples, plantations growing sugar and rice, and more. But, in what came to be known as the Sixteen Thousand Revolution (named so because the revolution occurred on the year 1600), the various residents rebelled against their oppressive leaders and chose to carve their own path in the world. The revolution, bloody and blazing, took the world by a shock, especially when it resisted the brutal retaliatory strikes from Rivierra. Still, Motocoro appealed to the broader world - and diplomatic pressures, particularly from Ouvry, led to its persisted existence. Not all is saved yet, however, as poverty and starvation climbs after Rivierraen blockades keep it contained.",
+      "status": "established"
+    },
+    {
+      "id": 9,
+      "name": "State of Vanzelhoff",
+      "shortName": "Vanzelhoff",
+      "color": [
+        255,
+        193,
+        255
+      ],
+      "hexColor": "#FFC1FF",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/vanzelhoff.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/vanzelhoff",
+      "description": "Vanzelhoff is a minor South Paix'i country that rests in the incredibly seasonal basin of the Paix'suri Mountains. During dry seasons, it is filled with incredibly arable farmland, and during wet seasons, it floods tremendously. The flora and fauna are also very dangerous, making the country's people stereotyped as wild men, even despite the fact most are distantly Kälamjaan. Today, the government is ruled by a single party, which is arguably an extension of the Kälamjaan National. It once was the furious battlegrounds Kälamjaa and indigenous Vanzelhoff peoples.",
+      "status": "established"
+    },
+    {
+      "id": 10,
+      "name": "Paix'iland",
+      "shortName": "Paix'iland",
+      "color": [
+        134,
+        193,
+        75
+      ],
+      "hexColor": "#86C14B",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/paixiland.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/paixiland",
+      "description": "Paix'iland is what little remains of the practically prehistoric Paix'i peoples who once unified the continent - or so they said. Admittedly, much of the Paix'is true heritage and existence is rather mythical in nature, so the country's supposedly ancient and vast history is undermined by the uncertainty of that fact. Paix'iland now acts as a warlord state of a ultranationalistic people who seemingly can never properly unite themselves.",
+      "status": "established"
+    },
+    {
+      "id": 11,
+      "name": "Suav",
+      "shortName": "Suav",
+      "color": [
+        255,
+        193,
+        75
+      ],
+      "hexColor": "#FFC14B",
+      "flagUrl": "https://raw.githubusercontent.com/Baconiumo/woe/main/flags/suav.png",
+      "pageUrl": "https://sites.google.com/view/world-of-woe/nations/suav",
+      "description": "Suav is a beautiful peninsula jutting out from Paix'iland. It is tragically, though, blighted by the fact that it is an active rebellious state. As a result of the war, Suav'i people have flocked to other countries as refugees, which contributes to their negative global image.",
+      "status": "established"
+    },
+    {
+      "id": 12,
+      "name": "Nation 12",
+      "shortName": "Nation 12",
+      "color": [
+        239,
+        196,
+        28
+      ],
+      "hexColor": "#EFC41C",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 12 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore its political institutions and local identities, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 13,
+      "name": "Nation 13",
+      "shortName": "Nation 13",
+      "color": [
+        25,
+        53,
+        69
+      ],
+      "hexColor": "#193545",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 13 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore its relationship with neighboring powers and trade routes, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 14,
+      "name": "Nation 14",
+      "shortName": "Nation 14",
+      "color": [
+        150,
+        91,
+        47
+      ],
+      "hexColor": "#965B2F",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 14 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the balance between rural communities and growing towns, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 15,
+      "name": "Nation 15",
+      "shortName": "Nation 15",
+      "color": [
+        58,
+        175,
+        191
+      ],
+      "hexColor": "#3AAFBF",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 15 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the legacy of older borders and political arrangements, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 16,
+      "name": "Nation 16",
+      "shortName": "Nation 16",
+      "color": [
+        255,
+        122,
+        119
+      ],
+      "hexColor": "#FF7A77",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 16 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the pressures shaping its economy and public life, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 17,
+      "name": "Nation 17",
+      "shortName": "Nation 17",
+      "color": [
+        228,
+        91,
+        69
+      ],
+      "hexColor": "#E45B45",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 17 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the differences between its regional communities, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 18,
+      "name": "Nation 18",
+      "shortName": "Nation 18",
+      "color": [
+        153,
+        184,
+        69
+      ],
+      "hexColor": "#99B845",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 18 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the way its people understand national identity and belonging, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 19,
+      "name": "Nation 19",
+      "shortName": "Nation 19",
+      "color": [
+        137,
+        178,
+        193
+      ],
+      "hexColor": "#89B2C1",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 19 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the tensions between its past and its present, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 20,
+      "name": "Nation 20",
+      "shortName": "Nation 20",
+      "color": [
+        218,
+        153,
+        193
+      ],
+      "hexColor": "#DA99C1",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 20 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the role of its geography in shaping everyday life, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 21,
+      "name": "Nation 21",
+      "shortName": "Nation 21",
+      "color": [
+        0,
+        255,
+        201
+      ],
+      "hexColor": "#00FFC9",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 21 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore its place within the wider regional order, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 22,
+      "name": "Nation 22",
+      "shortName": "Nation 22",
+      "color": [
+        239,
+        69,
+        219
+      ],
+      "hexColor": "#EF45DB",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 22 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the relationship between central authority and local interests, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 23,
+      "name": "Nation 23",
+      "shortName": "Nation 23",
+      "color": [
+        255,
+        255,
+        119
+      ],
+      "hexColor": "#FFFF77",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 23 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the ways its communities preserve distinct traditions, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 24,
+      "name": "Nation 24",
+      "shortName": "Nation 24",
+      "color": [
+        137,
+        153,
+        193
+      ],
+      "hexColor": "#8999C1",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 24 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the influence of migration and exchange on its society, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 25,
+      "name": "Nation 25",
+      "shortName": "Nation 25",
+      "color": [
+        69,
+        84,
+        228
+      ],
+      "hexColor": "#4554E4",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 25 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the pressures created by its neighbors and borders, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 26,
+      "name": "Nation 26",
+      "shortName": "Nation 26",
+      "color": [
+        234,
+        122,
+        44
+      ],
+      "hexColor": "#EA7A2C",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 26 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the development of its cities and hinterlands, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 27,
+      "name": "Nation 27",
+      "shortName": "Nation 27",
+      "color": [
+        228,
+        165,
+        69
+      ],
+      "hexColor": "#E4A545",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 27 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the competing interests that shape its public institutions, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 28,
+      "name": "Nation 28",
+      "shortName": "Nation 28",
+      "color": [
+        162,
+        0,
+        100
+      ],
+      "hexColor": "#A20064",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 28 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the relationship between its historical legacy and modern politics, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 29,
+      "name": "Nation 29",
+      "shortName": "Nation 29",
+      "color": [
+        241,
+        255,
+        201
+      ],
+      "hexColor": "#F1FFC9",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 29 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the role of commerce in connecting its communities, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 30,
+      "name": "Nation 30",
+      "shortName": "Nation 30",
+      "color": [
+        153,
+        53,
+        69
+      ],
+      "hexColor": "#993545",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 30 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the challenges of governing a varied and geographically divided territory, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 31,
+      "name": "Nation 31",
+      "shortName": "Nation 31",
+      "color": [
+        63,
+        196,
+        28
+      ],
+      "hexColor": "#3FC41C",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 31 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the social changes affecting its population, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 32,
+      "name": "Nation 32",
+      "shortName": "Nation 32",
+      "color": [
+        0,
+        203,
+        180
+      ],
+      "hexColor": "#00CBB4",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 32 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the place of regional loyalties within its political life, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 33,
+      "name": "Nation 33",
+      "shortName": "Nation 33",
+      "color": [
+        255,
+        170,
+        156
+      ],
+      "hexColor": "#FFAA9C",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 33 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the influence of its landscape on settlement and travel, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 34,
+      "name": "Nation 34",
+      "shortName": "Nation 34",
+      "color": [
+        100,
+        72,
+        119
+      ],
+      "hexColor": "#644877",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 34 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore the balance between continuity and change in its culture, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 35,
+      "name": "Nation 35",
+      "shortName": "Nation 35",
+      "color": [
+        239,
+        69,
+        28
+      ],
+      "hexColor": "#EF451C",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 35 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore its connections to the wider world, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    },
+    {
+      "id": 36,
+      "name": "Nation 36",
+      "shortName": "Nation 36",
+      "color": [
+        0,
+        122,
+        119
+      ],
+      "hexColor": "#007A77",
+      "flagUrl": "",
+      "pageUrl": "",
+      "description": "Nation 36 has not yet been fully developed in the world of Woe. This entry is a provisional placeholder rather than established canon. When its history is written, its overview can explore its political institutions and local identities, alongside the experiences of the people who live there and the events that have shaped its place in the wider world. Its name, government, cultural character, and historical relationships remain open for development.",
+      "status": "placeholder"
+    }
+  ]
+}
