@@ -2,31 +2,47 @@
 {
   "eras": [
     {
-      "title": "Ancient Era",
-      "startYear": Test,
-      "endYear": 450,
+      "title": "Post-Paix'i Era",
+      "startYear": -473,
+      "endYear": 110,
       "color": "#76645B",
       "years": [
         {
-          "year": 193,
+          "year": -473,
           "moments": [
             {
-              "title": "The First Haszellian Expansion",
-              "subtitle": "The beginning of a period of territorial growth",
-              "description": "Haszell began expanding its influence into neighboring territories. Its growing political and commercial presence would eventually reshape relations throughout the region."
+              "title": "The Paix'i Coalition Collapse",
+              "subtitle": "The Paix'i Coalition, a vast prehistoric empire that sprawled across what is now Ouvry, Kälamjaa, and former Haszell Empire territories, collapsed. The Coalition, which consisted of various citystates and tribal leagues, seemingly fell to internal division and a mysterious plague that killed thousands.",
             }
           ]
         },
         {
-          "year": 128,
+          "year": -425,
           "moments": [
             {
-              "title": "The Founding of Ouvry",
-              "subtitle": "The establishment of an independent Ouvrian state",
-              "description": "The Ouvrian territories were consolidated under a single government, establishing the foundations of what would eventually become the modern nation."
+              "title": "The Noble Model",
+              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty. Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model. The citystate of Hajakiop is renamed to Haszellia.",
             }
           ]
-        }
+        },
+         {
+          "year": -400,
+          "moments": [
+            {
+              "title": "The Model Spreads",
+              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on. Simultaneously, King Alziorica Haszell I marches the first Great Army across the Steppes, founding the city of Listine.",
+            }
+          ]
+        },
+         {
+          "year": -350,
+          "moments": [
+            {
+              "title": "The Mequin and Kälamjaa Dynasties Arise",
+              "subtitle": "With the Haszell Empire rapidly growing in the southern Steppes, the spine-eastern Paix'i forests have their own dynasties emerge. The Great Ancient Kings, Mequignon l'Mequin the First, Eoisin Kälamjaa, and Alziorica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves.",
+            }
+          ]
+        },
       ]
     },
     {
