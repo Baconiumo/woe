@@ -1,0 +1,61 @@
+
+{
+  "events": [
+    {
+      "type": "era",
+      "title": "The Old Kingdoms",
+      "startYear": 100,
+      "endYear": 450,
+      "color": "#76645B"
+    },
+    {
+      "type": "moment",
+      "title": "The Founding of Ouvry",
+      "year": 128,
+      "subtitle": "The establishment of an independent Ouvrian state",
+      "description": "The Ouvrian territories were consolidated under a single government, establishing the foundations of what would eventually become the modern nation."
+    },
+    {
+      "type": "moment",
+      "title": "The First Haszellian Expansion",
+      "year": 193,
+      "subtitle": "The beginning of a period of territorial growth",
+      "description": "Haszell began expanding its influence into neighboring territories. Its growing political and commercial presence would eventually reshape relations throughout the region."
+    },
+    {
+      "type": "era",
+      "title": "The Age of Maritime Powers",
+      "startYear": 450,
+      "endYear": 720,
+      "color": "#596C70"
+    },
+    {
+      "type": "moment",
+      "title": "The Rise of Rivierra",
+      "year": 482,
+      "subtitle": "Rivierra emerges as a major maritime power",
+      "description": "Rivierra's growing maritime presence established it as an increasingly influential force in regional affairs."
+    },
+    {
+      "type": "moment",
+      "title": "The Treaty of d'Razόn",
+      "year": 536,
+      "subtitle": "A landmark agreement between neighboring states",
+      "description": "An agreement was reached establishing new arrangements for trade and diplomatic relations between the participating states."
+    },
+    {
+      "type": "era",
+      "title": "The Age of Fragmentation",
+      "startYear": 720,
+      "endYear": 950,
+      "color": "#79616D"
+    },
+    {
+      "type": "moment",
+      "title": "The Dissolution of the Old Alliance",
+      "year": 783,
+      "subtitle": "The end of an established political arrangement",
+      "description": "Longstanding political relationships began to deteriorate, leading to a period of realignment among the region's established powers."
+    }
+  ]
+}
