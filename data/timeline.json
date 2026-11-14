@@ -1,4 +1,3 @@
-
 {
   "eras": [
     {
@@ -12,7 +11,7 @@
           "moments": [
             {
               "title": "The Paix'i Coalition Collapse",
-              "subtitle": "The Paix'i Coalition, a vast prehistoric empire that sprawled across what is now Ouvry, Kälamjaa, and former Haszell Empire territories, collapsed. The Coalition, which consisted of various citystates and tribal leagues, seemingly fell to internal division and a mysterious plague that killed thousands.",
+              "subtitle": "The Paix'i Coalition, a vast prehistoric empire that sprawled across what is now Ouvry, Kälamjaa, and former Haszell Empire territories, collapsed. The Coalition, which consisted of various citystates and tribal leagues, seemingly fell to internal division and a mysterious plague that killed thousands."
             }
           ]
         },
@@ -21,71 +20,25 @@
           "moments": [
             {
               "title": "The Noble Model",
-              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty. Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model. The citystate of Hajakiop is renamed to Haszellia.",
+              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty. Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model. The citystate of Hajakiop is renamed to Haszellia."
             }
           ]
         },
-         {
+        {
           "year": -400,
           "moments": [
             {
               "title": "The Model Spreads",
-              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on. Simultaneously, King Alziorica Haszell I marches the first Great Army across the Steppes, founding the city of Listine.",
+              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on. Simultaneously, King Alziorica Haszell I marches the first Great Army across the Steppes, founding the city of Listine."
             }
           ]
         },
-         {
+        {
           "year": -350,
           "moments": [
             {
               "title": "The Mequin and Kälamjaa Dynasties Arise",
-              "subtitle": "With the Haszell Empire rapidly growing in the southern Steppes, the spine-eastern Paix'i forests have their own dynasties emerge. The Great Ancient Kings, Mequignon l'Mequin the First, Eoisin Kälamjaa, and Alziorica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves.",
-            }
-          ]
-        },
-      ]
-    },
-    {
-      "title": "The Age of Maritime Powers",
-      "startYear": 450,
-      "endYear": 720,
-      "color": "#596C70",
-      "years": [
-        {
-          "year": 536,
-          "moments": [
-            {
-              "title": "The Treaty of d'Razόn",
-              "subtitle": "A landmark agreement between neighboring states",
-              "description": "An agreement was reached establishing new arrangements for trade and diplomatic relations between the participating states."
-            }
-          ]
-        },
-        {
-          "year": 482,
-          "moments": [
-            {
-              "title": "The Rise of Rivierra",
-              "subtitle": "Rivierra emerges as a major maritime power",
-              "description": "Rivierra's growing maritime presence established it as an increasingly influential force in regional affairs."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "The Age of Fragmentation",
-      "startYear": 720,
-      "endYear": 950,
-      "color": "#79616D",
-      "years": [
-        {
-          "year": 783,
-          "moments": [
-            {
-              "title": "The Dissolution of the Old Alliance",
-              "subtitle": "The end of an established political arrangement",
-              "description": "Longstanding political relationships began to deteriorate, leading to a period of realignment among the region's established powers."
+              "subtitle": "With the Haszell Empire rapidly growing in the southern Steppes, the spine-eastern Paix'i forests have their own dynasties emerge. The Great Ancient Kings, Mequignon l'Mequin the First, Eoisin Kälamjaa, and Alziorica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
             }
           ]
         }
