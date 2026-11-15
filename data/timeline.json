@@ -1,9 +1,10 @@
+
 {
   "eras": [
     {
-      "title": "Post-Paix'i Era / Era of the Ancient Kings",
+      "title": "Post-Paix'i Era",
       "startYear": -473,
-      "endYear": -200,
+      "endYear": -473,
       "color": "#76645B",
       "years": [
         {
@@ -14,13 +15,21 @@
               "subtitle": "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.\nInternal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.\nThe Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "title": "Era of the Ancient Kings",
+      "startYear": 1,
+      "endYear": 200,
+      "color": "#76645B",
+      "years": [
         {
           "year": -425,
           "moments": [
             {
               "title": "The Noble Model",
-              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty. \nFamilial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.\nThe citystate of Hajakiop is renamed to Haszellia."
+              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.\nFamilial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.\nThe citystate of Hajakiop is renamed to Haszellia."
             }
           ]
         },
@@ -50,16 +59,7 @@
               "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
             }
           ]
-        }
-      ]
-    },
-     "eras": [
-    {
-      "title": "Era of the Ancient Kings",
-      "startYear": 1,
-      "endYear": 200,
-      "color": "#76645B",
-      "years": [
+        },
         {
           "year": 73,
           "moments": [
@@ -68,6 +68,8 @@
               "subtitle": "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.\nInternal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.\nThe Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
             }
           ]
-        },
+        }
+      ]
+    }
   ]
 }
