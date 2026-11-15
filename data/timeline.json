@@ -3,7 +3,7 @@
     {
       "title": "Post-Paix'i Era / Era of the Ancient Kings",
       "startYear": -473,
-      "endYear": 0,
+      "endYear": -200,
       "color": "#76645B",
       "years": [
         {
@@ -34,6 +34,15 @@
           ]
         },
         {
+          "year": -385,
+          "moments": [
+            {
+              "title": "The Mequin and Kälamjaa Dynasties Arise",
+              "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
+            }
+          ]
+        },
+        {
           "year": -350,
           "moments": [
             {
@@ -43,6 +52,22 @@
           ]
         }
       ]
-    }
+    },
+     "eras": [
+    {
+      "title": "Era of the Ancient Kings",
+      "startYear": 1,
+      "endYear": 200,
+      "color": "#76645B",
+      "years": [
+        {
+          "year": 73,
+          "moments": [
+            {
+              "title": "The Paix'i Coalition Collapse",
+              "subtitle": "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.\nInternal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.\nThe Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
+            }
+          ]
+        },
   ]
 }
