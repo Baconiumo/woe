@@ -25,29 +25,11 @@
       "color": "#76645B",
       "years": [
         {
-          "year": -425,
+          "year": 73,
           "moments": [
             {
-              "title": "The Noble Model",
-              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.\nFamilial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.\nThe citystate of Hajakiop is renamed to Haszellia."
-            }
-          ]
-        },
-        {
-          "year": -400,
-          "moments": [
-            {
-              "title": "The Model Spreads",
-              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on.\nKing Alisterica Haszell I marches the first Great Army across the Steppes, founding the city of Alistine on the southwestern end of the Inier Sea.\nAlong the Spine, Mequignon l'Mequin the First seizes the city of Sauvai, forcing an exodus of the local people over the Spines.\nSouth of Sauvai, Chief Eoisin of Kälamjaa renames his family after the citystate, declaring himself King of Kälamjaa."
-            }
-          ]
-        },
-        {
-          "year": -385,
-          "moments": [
-            {
-              "title": "The Mequin and Kälamjaa Dynasties Arise",
-              "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
+              "title": "",
+              "subtitle": ""
             }
           ]
         },
@@ -61,11 +43,29 @@
           ]
         },
         {
-          "year": 73,
+          "year": -385,
           "moments": [
             {
-              "title": "The Paix'i Coalition Collapse",
-              "subtitle": "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.\nInternal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.\nThe Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
+              "title": "The Mequin and Kälamjaa Dynasties Arise",
+              "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
+            }
+          ]
+        },
+        {
+          "year": -400,
+          "moments": [
+            {
+              "title": "The Model Spreads",
+              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on.\nKing Alisterica Haszell I marches the first Great Army across the Steppes, founding the city of Alistine on the southwestern end of the Inier Sea.\nAlong the Spine, Mequignon l'Mequin the First seizes the city of Sauvai, forcing an exodus of the local people over the Spines.\nSouth of Sauvai, Chief Eoisin of Kälamjaa renames his family after the citystate, declaring himself King of Kälamjaa."
+            }
+          ]
+        },
+        {
+          "year": -425,
+          "moments": [
+            {
+              "title": "The Noble Model",
+              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.\nFamilial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.\nThe citystate of Hajakiop is renamed to Haszellia."
             }
           ]
         }
