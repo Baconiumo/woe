@@ -1,7 +1,7 @@
 {
   "eras": [
-    { "title": "Post-Paix'i Era", "start": -473, "end": -473, "color": "#76645B" },
-    { "title": "Era of the Ancient Kings", "start": -425, "end": 200, "color": "#76645B" },
+    { "title": "Post-Paix'i Era", "start": -473, "end": -200, "color": "#76645B" },
+    { "title": "Era of the Ancient Kings", "start": 0, "end": 200, "color": "#76645B" },
     { "title": "Placeholder Era 1", "start": 201, "end": 400, "color": "#596C70" },
     { "title": "Placeholder Era 2", "start": 401, "end": 600, "color": "#79616D" },
     { "title": "Placeholder Era 3", "start": 601, "end": 800, "color": "#7A7A5C" },
@@ -20,16 +20,16 @@
       ]
     },
     {
-      "year": -425,
+      "year": 12,
       "title": "The Noble Model",
       "text": [
-        "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.",
+        "Following the prophesied fallen star, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the growing Haszell dynasty.",
         "Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.",
         "The citystate of Hajakiop is renamed to Haszellia."
       ]
     },
     {
-      "year": -400,
+      "year": 36,
       "title": "The Model Spreads",
       "text": [
         "Not long after the Noble Model's formation, other former Paix'i states began to take it on.",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "year": -385,
+      "year": 68,
       "title": "The Mequin and Kälamjaa Dynasties Arise",
       "text": [
         "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "year": -350,
+      "year": 75,
       "title": "The Mequin and Kälamjaa Dynasties Arise",
       "text": [
         "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.",
