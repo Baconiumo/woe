@@ -1,75 +1,185 @@
-
 {
   "eras": [
+    { "title": "Post-Paix'i Era", "start": -473, "end": -473, "color": "#76645B" },
+    { "title": "Era of the Ancient Kings", "start": -425, "end": 200, "color": "#76645B" },
+    { "title": "Placeholder Era 1", "start": 201, "end": 400, "color": "#596C70" },
+    { "title": "Placeholder Era 2", "start": 401, "end": 600, "color": "#79616D" },
+    { "title": "Placeholder Era 3", "start": 601, "end": 800, "color": "#7A7A5C" },
+    { "title": "Placeholder Era 4", "start": 801, "end": 1000, "color": "#6B6F8A" },
+    { "title": "Placeholder Era 5", "start": 1001, "end": 1200, "color": "#8A6A5C" }
+  ],
+
+  "events": [
     {
-      "title": "Post-Paix'i Era",
-      "startYear": -473,
-      "endYear": -473,
-      "color": "#76645B",
-      "years": [
-        {
-          "year": -473,
-          "moments": [
-            {
-              "title": "The Paix'i Coalition Collapse",
-              "subtitle": "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.\nInternal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.\nThe Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
-            }
-          ]
-        }
+      "year": -473,
+      "title": "The Paix'i Coalition Collapse",
+      "text": [
+        "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.",
+        "Internal division soon after the plague began to sweep through, with many citystates and tribes warring against one another.",
+        "The Paix'i Coalition, the mythical prehistoric empire of ancient times, finally collapsed."
       ]
     },
     {
-      "title": "Era of the Ancient Kings",
-      "startYear": 1,
-      "endYear": 200,
-      "color": "#76645B",
-      "years": [
-        {
-          "year": 73,
-          "moments": [
-            {
-              "title": "",
-              "subtitle": ""
-            }
-          ]
-        },
-        {
-          "year": -350,
-          "moments": [
-            {
-              "title": "The Mequin and Kälamjaa Dynasties Arise",
-              "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
-            }
-          ]
-        },
-        {
-          "year": -385,
-          "moments": [
-            {
-              "title": "The Mequin and Kälamjaa Dynasties Arise",
-              "subtitle": "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.\nThe growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.\nThe Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
-            }
-          ]
-        },
-        {
-          "year": -400,
-          "moments": [
-            {
-              "title": "The Model Spreads",
-              "subtitle": "Not long after the Noble Model's formation, other former Paix'i states began to take it on.\nKing Alisterica Haszell I marches the first Great Army across the Steppes, founding the city of Alistine on the southwestern end of the Inier Sea.\nAlong the Spine, Mequignon l'Mequin the First seizes the city of Sauvai, forcing an exodus of the local people over the Spines.\nSouth of Sauvai, Chief Eoisin of Kälamjaa renames his family after the citystate, declaring himself King of Kälamjaa."
-            }
-          ]
-        },
-        {
-          "year": -425,
-          "moments": [
-            {
-              "title": "The Noble Model",
-              "subtitle": "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.\nFamilial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.\nThe citystate of Hajakiop is renamed to Haszellia."
-            }
-          ]
-        }
+      "year": -425,
+      "title": "The Noble Model",
+      "text": [
+        "Following the Paix'i collapse, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the Haszell dynasty.",
+        "Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.",
+        "The citystate of Hajakiop is renamed to Haszellia."
       ]
+    },
+    {
+      "year": -400,
+      "title": "The Model Spreads",
+      "text": [
+        "Not long after the Noble Model's formation, other former Paix'i states began to take it on.",
+        "King Alisterica Haszell I marches the first Great Army across the Steppes, founding the city of Alistine on the southwestern end of the Inier Sea.",
+        "Along the Spine, Mequignon l'Mequin the First seizes the city of Sauvai, forcing an exodus of the local people over the Spines.",
+        "South of Sauvai, Chief Eoisin of Kälamjaa renames his family after the citystate, declaring himself King of Kälamjaa."
+      ]
+    },
+    {
+      "year": -385,
+      "title": "The Mequin and Kälamjaa Dynasties Arise",
+      "text": [
+        "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.",
+        "The growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.",
+        "The Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
+      ]
+    },
+    {
+      "year": -350,
+      "title": "The Mequin and Kälamjaa Dynasties Arise",
+      "text": [
+        "The Haszell Empire's growth spurs on as small nomadic groups in the Savannte are integrated into the civilization as roaming peoples.",
+        "The growing Paix'i dynasties that run across the Spine begin to solidify as the Mequin dynasty seizes another city and King Eoisin begins to grow his noble family with the birth of his Three Sons.",
+        "The Great Ancient Kings, Mequignon l'Mequin the First, Eoisin of Kälamjaa, and Alisterica Haszell the First are all simultaneously living during this period, naming their growing empires after none other than themselves."
+      ]
+    },
+    {
+      "year": 210,
+      "title": "Placeholder moment 1.1",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 250,
+      "title": "Placeholder moment 1.2",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 300,
+      "title": "Placeholder moment 1.3",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 350,
+      "title": "Placeholder moment 1.4",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 390,
+      "title": "Placeholder moment 1.5",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 410,
+      "title": "Placeholder moment 2.1",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 450,
+      "title": "Placeholder moment 2.2",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 500,
+      "title": "Placeholder moment 2.3",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 550,
+      "title": "Placeholder moment 2.4",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 590,
+      "title": "Placeholder moment 2.5",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 610,
+      "title": "Placeholder moment 3.1",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 650,
+      "title": "Placeholder moment 3.2",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 700,
+      "title": "Placeholder moment 3.3",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 750,
+      "title": "Placeholder moment 3.4",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 790,
+      "title": "Placeholder moment 3.5",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 810,
+      "title": "Placeholder moment 4.1",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 850,
+      "title": "Placeholder moment 4.2",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 900,
+      "title": "Placeholder moment 4.3",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 950,
+      "title": "Placeholder moment 4.4",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 990,
+      "title": "Placeholder moment 4.5",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 1010,
+      "title": "Placeholder moment 5.1",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 1050,
+      "title": "Placeholder moment 5.2",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 1100,
+      "title": "Placeholder moment 5.3",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 1150,
+      "title": "Placeholder moment 5.4",
+      "text": "Placeholder text. Replace this with what happened."
+    },
+    {
+      "year": 1190,
+      "title": "Placeholder moment 5.5",
+      "text": "Placeholder text. Replace this with what happened."
     }
   ]
 }
