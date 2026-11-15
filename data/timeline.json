@@ -11,7 +11,7 @@
 
   "events": [
     {
-      "year": -473,
+      "year": -273,
       "title": "The Paix'i Coalition Collapse",
       "text": [
         "The Coalition, which consisted of various citystates and tribal leagues, is swept through with a devastating and mysterious plague.",
@@ -20,10 +20,20 @@
       ]
     },
     {
+      "year": 0,
+      "title": "The Casting of the Mantle",
+      "text": [
+        "The heavily prophesied event came to be - a brilliant flash of light engulfed the midnight sky as a meteor flies from the sky.",
+        "This event, deeply tied to religion in the Gruppa, came to be known as the Casting of the Mantle.",
+        "Centuries later, this event will be marked as a turning point due to its religious significance and proximity to other major events, and the years before it have come to be known as 'Before the Mantle' and 'After the Mantle,' BM and AM.",
+        "Under the Casting of the Mantle, the great Alisterica Haszell seized power in the citystate of Hajakiop."
+      ]
+    },
+    {
       "year": 12,
       "title": "The Noble Model",
       "text": [
-        "Following the prophesied fallen star, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the growing Haszell dynasty.",
+        "Following the Casting of the Mantle, the so-called Noble Model began to emerge around the Inier Sea, spurred on by the growing Haszell dynasty.",
         "Familial ties, already important in Paix'i culture, began to institutionalize as citystates and tribes took on this Model.",
         "The citystate of Hajakiop is renamed to Haszellia."
       ]
@@ -57,9 +67,13 @@
       ]
     },
     {
-      "year": 210,
-      "title": "Placeholder moment 1.1",
-      "text": "Placeholder text. Replace this with what happened."
+      "year": 77,
+      "title": "King Alisterica Haszell the First Dies",
+      "text": [ 
+        "The day of his hundredth birthday, Alisterica Haszell dies of unknown causes. It is said that his spirit travelled deathlessly to the Heavens.",
+        "The body is laid to rest in catacombs beneath the Castle Haszell.",
+        "His oldest son, Jullica Haszell, rises to power at the age of 27. Immediately, a declaration of war against the nomadic Eastern Steppefolk is made."
+      ]
     },
     {
       "year": 250,
